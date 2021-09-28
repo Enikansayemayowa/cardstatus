@@ -3,7 +3,8 @@
 // import GameScreen from "./Component/SimpleGame/GameScreen";
 // import WorkHome from "./Component/WorkHome";
 // import GithubApp from './Component/Github/GithubApp';
-import Sitesmile from "./Component2/Sitesmile";
+// import Sitesmile from "./Component2/Sitesmile";
+import Sitemile from './Component2/Sitemile'
 function App() {
   return (
     <div className="App">
@@ -11,7 +12,8 @@ function App() {
       {/* < Learning /> */}
       {/* < GameScreen /> */}
       {/* < GithubApp /> */}
-      <Sitesmile />
+      {/* <Sitesmile /> */}
+      <Sitemile />
 
       </div>
       
